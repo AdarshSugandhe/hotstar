@@ -437,3 +437,55 @@ ul {
     margin-left: 5px;
     
 }
+
+
+
+.account-html {
+    background-image: url("background-2.jpg");
+    height: 100%;
+    background-size: cover;
+
+}
+
+.account-button {
+    display: flex;
+    justify-content: end;
+}
+
+.image-account {
+    display: flex;
+    justify-content: center;
+}
+
+.account-image {
+    height: 130px;
+    width: 330;
+    margin-top: 50px;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.heading-accounts {
+    display: flex;
+    justify-content: center;
+}
+
+.login-heading {
+    color: white;
+    padding: 10px;
+    
+}
+
+.log-in-btn {
+    height: 50px;
+    width: 200px;
+    background-color: #4e4eff;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: medium;
+    margin-top: 20px;
+    
+}
